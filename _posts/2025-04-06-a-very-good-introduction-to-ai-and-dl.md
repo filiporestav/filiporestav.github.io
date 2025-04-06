@@ -17,7 +17,7 @@ Nonetheless, some interestings topics I have learnt about are:
 * How to train a neural network, and different training techniques
 * Challenging issues when training neural networks (e.g. overfitting)
 * Metrics for evaluating models
-* What fine-tuning is and why to use pretrained models
+* [What fine-tuning is and why to use pretrained models](https://github.com/filiporestav/filiporestav.github.io/blob/master/_posts/2025-04-06-what-is-finetuning-and-why-pretrained-models.md)
 * Importance of having a valiation and test sets
 * What to do with time series data
 * [The large amount of areas that deep learning can be applied to](https://filiporestav.github.io/2025/04/06/the-large-amount-of-areas-deep-learning-can-be-applied-to.html)
