@@ -20,6 +20,6 @@ Nonetheless, some interestings topics I have learnt about are:
 * What fine-tuning is
 * Importance of having a valiation and test sets
 * What to do with time series data
-* The large amount of areas that deep learning can be applied to
+* [The large amount of areas that deep learning can be applied to](https://filiporestav.github.io/2025/04/06/the-large-amount-of-areas-deep-learning-can-be-applied-to.html)
 
-Some of the topics above have links, where I have written more comprehensive about my learnings.
+Some of the topics above have links, where I have written more comprehensive about my learnings. Stay posted, more links will be added as I progress in my learnings and in the course! 😎
