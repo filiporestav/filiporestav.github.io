@@ -24,11 +24,8 @@ Thus, it is the head that is the part that is newly added to be specific to the 
 
 This technique is not only for images, but for most models in general. Large Language Models with billions amount of parameters always have to be finetuned if you do not own a billion dollar company yourself and have the GPUs, time, money and knowledge to train a model from scratch.
 
-Please guess how much it cost to train ChatGPT-4!
+Please guess how much it costed to train ChatGPT-4!
 <details>
 <summary>See answer here</summary>
-  It cost more than $100 million dollars, [according to Sam Altman](https://www.forbes.com/sites/katharinabuchholz/2024/08/23/the-extreme-cost-of-training-ai-models/).
-  ![The extreme cost of training AI models](https://imageio.forbes.com/specials-images/imageserve/66cca2d18a06cc68cbb9a5d6/20240823-TrainingAIModelsCost-R-2/960x0.jpg?format=jpg&width=1440)
-  
-  *Charted by [Statista](https://www.statista.com/chartoftheday/)*
+  It costed more than $100 million dollars, according to Sam Altman.
 </details>
