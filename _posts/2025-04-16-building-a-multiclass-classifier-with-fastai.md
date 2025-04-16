@@ -80,9 +80,9 @@ learn.fine_tune(3)
 
 **Algorithm:** The model is a convolutional neural network (CNN), which scans images for patterns like shapes or textures. Fine-tuning adjusts weights to minimize errors, using a loss function called cross-entropy loss, ideal for multiple classes:
 
-$-{(y\log(p) + (1 - y)\log(1 - p))}$
+$L = -\sum_{c=1}^My_{i}\log(\hat{y_{i}})$
 
-where (C) is the number of classes (5), $y_{i}$ is the true label (1 for the correct class, 0 otherwise), and $y_{i}\hat{y}_i\hat{y}_i$ is the predicted probability. Fastai automatically selects this loss for multiclass tasks.
+where (M) is the number of classes (5), $y_{i}$ is the true label (1 for the correct class, 0 otherwise), and $\hat{y}_i$ is the predicted probability. Fastai automatically selects this loss for multiclass tasks.
 
 ### Step 4: Analyzing results
 After training, I evaluated the model’s performance.
