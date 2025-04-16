@@ -66,7 +66,7 @@ This code:
 * Splits data randomly with a fixed seed for reproducibility.
 * Resizes images to 192x192 pixels by squishing.
 
-Here is a sample batch:
+Here is a sample batch from my data:
 ![batch](/images/batch_example.png)
 
 ### Step 3: Training the model
