@@ -15,7 +15,7 @@ I followed these steps:
 4. Analyzed results with a confusion matrix and t-SNE visualization.
 
 ### Step 1: Collecting images
-I used the `duckduckgo_search` library to download images for each class. To ensure variety and generalization of the model, I searched for “photo,” “sun photo,” and “shade photo” (e.g. “dog photo,” “dog sun photo”). Here’s the code:
+I used the `duckduckgo_search` library to download images for each class. To ensure variety and generalization of the model, I searched for “photo,” “sun photo,” and “shade photo” (e.g. “dog photo”, “dog sun photo”). Here’s the code:
 
 ```python
 from duckduckgo_search import DDGS
